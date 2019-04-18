@@ -1,1 +1,0 @@
-$(cd "$(dirname "$0")"; pwd)/jvm/aix/bin/java -cp $(cd "$(dirname "$0")"; pwd)/console.jar com.x.server.console.Shadow
